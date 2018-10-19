@@ -1,6 +1,6 @@
 # proposal-ng17abd
 
-**Web Scripting Proposal
+# Web Scripting Proposal
 
 # Task 1: Project Description
 
